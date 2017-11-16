@@ -1,0 +1,301 @@
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Ride Share.dll.config
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Ride Share.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Ride Share.pdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Ride_Share.Ride_Share.apk
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Ride_Share.Ride_Share-Signed.apk
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Rides.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Users.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Rides.pdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Users.pdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\Ride_Share.csprojResolveAssemblyReference.cache
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Location.dll.stamp
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\Ride Share.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\Ride Share.pdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\bin\Ride_Share.Ride_Share.apk
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\menu\drawer_view.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\addride.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\driversignup.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\home.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\include_list_viewpager.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\login.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\main.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\nav_header.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\offers.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\profile.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\riderow.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\signup.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\ridedetails.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\myrides.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\myridescreatedrow.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\adddemand.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\searchdialog.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\map.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\values\strings.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\icon.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\profile.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\addrideicon.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\caricon.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\logouticon.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\values\styles.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\values-v21\styles.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\ic_menu.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\lockedicon.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\usericon.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\placeholder.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\search.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\toolbar.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\abouticon.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\editicon.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\hitchhikingicon.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\R.cs.flag
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\uploadflags.txt
+C:\Users\Gamer\Documents\Visual Studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\values\colors.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\location_destination.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\location_origin.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Cars.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Cars.pdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\calendar.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\clock.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\mail.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\smartphone.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\car.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\car_seat.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\acceptridedialog.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\map.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\stop.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\cigarette.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\backbag.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\suitcase.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\layout\demands.xml
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Ride Share.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Cars.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Rides.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Users.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\mscorlib.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.Core.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.Xml.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\Cars.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\Ride Share.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\Rides.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.Runtime.Serialization.Primitives.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\android\assets\Users.dll.mdb
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\res\drawable\home.png
+C:\Users\Gamer\documents\visual studio 2015\Projects\Ride Share\Ride Share\obj\Debug\Ride Share.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Ride Share.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Ride Share.pdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Ride_Share.Ride_Share.apk
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Ride_Share.Ride_Share-Signed.apk
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Cars.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Refractored.Controls.CircleImageView.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Rides.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Users.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.GooglePlayServices.Base.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.GooglePlayServices.Basement.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.GooglePlayServices.Location.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.GooglePlayServices.Maps.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Xamarin.GooglePlayServices.Tasks.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Cars.pdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Rides.pdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Users.pdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Refractored.Controls.CircleImageView.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\Ride_Share.csprojResolveAssemblyReference.cache
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Annotations.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Maps.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Location.dll.stamp
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\Ride Share.dll
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\Ride Share.pdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\bin\Ride_Share.Ride_Share.apk
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\menu\drawer_view.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\addride.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\driversignup.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\home.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\include_list_viewpager.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\login.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\main.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\nav_header.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\offers.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\profile.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\riderow.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\signup.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\ridedetails.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\myrides.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\myridescreatedrow.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\adddemand.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\searchdialog.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\map.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\acceptridedialog.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\demands.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\values\strings.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\icon.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\profile.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\progressbarstyle.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\addrideicon.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\caricon.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\logouticon.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\values\styles.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\values-v21\styles.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\ic_menu.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\lockedicon.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\usericon.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\placeholder.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\search.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\layout\toolbar.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\abouticon.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\editicon.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\hitchhikingicon.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\values\colors.xml
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\calendar.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\clock.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\mail.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\smartphone.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\car.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\car_seat.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\location_destination.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\location_origin.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\map.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\stop.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\cigarette.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\backbag.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\suitcase.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\home.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\R.cs.flag
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\uploadflags.txt
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\res\drawable\ridesharelogo.png
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Ride Share.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Cars.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Rides.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Users.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\mscorlib.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\System.Core.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\System.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\System.IO.Compression.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\System.Xml.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\Cars.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\Ride Share.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\Rides.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\System.IO.Compression.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\android\assets\Users.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\obj\Debug\Ride Share.dll.mdb
+C:\Users\Khalid\Desktop\RideShare\Ride Share\Ride Share\bin\Debug\Ride Share.dll.mdb

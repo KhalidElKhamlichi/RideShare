@@ -1,0 +1,37 @@
+<RelativeLayout a:layout_width="match_parent" a:layout_height="match_parent" a:fitsSystemWindows="true" xmlns:a="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto"><android.support.design.widget.AppBarLayout a:id="@+id/appbar" a:layout_width="match_parent" a:layout_height="wrap_content" a:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"><android.support.v7.widget.Toolbar a:id="@+id/toolBar" a:layout_width="match_parent" a:layout_height="?attr/actionBarSize" a:background="?attr/colorPrimary" app:popupTheme="@style/ThemeOverlay.AppCompat.Light" /></android.support.design.widget.AppBarLayout><EditText a:id="@+id/FullnameInput" a:hint="Full name" a:layout_width="320dp" a:gravity="center" a:layout_height="wrap_content" a:layout_marginTop="62dp" a:layout_centerHorizontal="true" a:inputType="text" /><EditText a:id="@+id/EmailInput" a:layout_below="@+id/FullnameInput" a:hint="Email" a:layout_width="320dp" a:gravity="center" a:layout_height="wrap_content" a:layout_marginTop="12dp" a:layout_centerHorizontal="true" a:inputType="text" /><EditText a:id="@+id/PhoneInput" a:layout_below="@+id/EmailInput" a:hint="Phone number" a:layout_width="320dp" a:gravity="center" a:layout_height="wrap_content" a:layout_marginTop="12dp" a:layout_centerHorizontal="true" a:inputType="number" /><EditText a:id="@+id/UsernameInput" a:hint="Username" a:layout_width="320dp" a:gravity="center" a:layout_height="wrap_content" a:layout_marginTop="12dp" a:layout_centerHorizontal="true" a:layout_below="@+id/PhoneInput" a:inputType="text" /><EditText a:id="@+id/PasswordInput" a:hint="Password" a:layout_below="@+id/UsernameInput" a:gravity="center" a:inputType="textPassword" a:layout_width="320dp" a:layout_height="wrap_content" a:layout_marginTop="12dp" a:password="true" a:layout_centerHorizontal="true" /><EditText a:id="@+id/ConfirmPasswordInput" a:hint="Confirm password" a:layout_below="@+id/PasswordInput" a:gravity="center" a:inputType="textPassword" a:layout_width="320dp" a:layout_height="wrap_content" a:layout_marginTop="12dp" a:password="true" a:layout_centerHorizontal="true" /><RadioGroup a:minWidth="25px" a:minHeight="25px" a:layout_width="match_parent" a:layout_height="wrap_content" a:id="@+id/RadioLayout" a:orientation="horizontal" a:layout_below="@+id/ConfirmPasswordInput" a:layout_marginTop="16dp" a:gravity="center" a:paddingLeft="25dp"><RadioButton a:layout_width="0dp" a:layout_weight="1" a:layout_height="wrap_content" a:text="Driver" a:id="@+id/DriverRadio" /><RadioButton a:layout_width="0dp" a:layout_weight="1" a:layout_height="wrap_content" a:text="Passenger" a:id="@+id/PassengerRadio" /><RadioButton a:layout_width="0dp" a:layout_weight="1" a:layout_height="wrap_content" a:checked="true" a:text="Both" a:id="@+id/BothRadio" /></RadioGroup><Button a:id="@+id/ContinueBtn" a:layout_width="100dp" a:layout_height="wrap_content" a:layout_below="@+id/RadioLayout" a:text="Continue" a:background="@color/buttonBackground" a:textColor="@color/window_background" a:layout_marginTop="20dp" a:gravity="center" a:layout_centerHorizontal="true" /><!--<LinearLayout
+        a:layout_below="@+id/ContinueBtn"
+        a:id="@+id/signup_layout_or"
+        a:gravity="center"
+        a:orientation="horizontal"
+        a:layout_width="match_parent"
+        a:layout_height="wrap_content"
+        a:layout_marginTop="8dp">
+    <View
+            a:layout_width="150dp"
+            a:layout_height="1dp"
+            a:background="#C4C8C9"
+            a:layout_marginLeft="35dp" />
+        <TextView
+            a:padding="5dp"
+            a:text="OR"
+            a:layout_width="wrap_content"
+            a:layout_height="wrap_content"
+            a:layout_margin="5dp" />
+        <View
+            a:layout_width="150dp"
+            a:layout_height="1dp"
+            a:background="#C4C8C9"
+            a:layout_marginRight="35dp" />
+    </LinearLayout>
+    <TextView
+        a:layout_below="@+id/signup_layout_or"
+        a:id="@+id/login"
+        a:layout_centerHorizontal="true"
+        a:clickable="true"
+        a:textStyle="bold"
+        a:textSize="20dp"
+        a:text="Login"
+        a:textColor="#FFF"
+        a:layout_width="wrap_content"
+        a:layout_height="wrap_content"
+        a:layout_marginTop="8dp" />--></RelativeLayout>

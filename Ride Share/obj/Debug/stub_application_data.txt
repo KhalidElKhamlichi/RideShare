@@ -1,0 +1,2 @@
+android.app.Application
+Ride_Share.Ride_Share

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Ride Share</string>
+    <string name="ServerIP">172.20.10.6</string>
+    <string name="size_prompt">Size</string>
+    <string name="google_maps_key">AIzaSyCS4xW5LbEkzjcd5ATuNnaX4Jss6uyU--c</string>
+    <string-array name="sizes_array">
+      <item>None</item>
+      <item>Small</item>
+      <item>Medium</item>
+      <item>Large</item>
+    </string-array>
+</resources>

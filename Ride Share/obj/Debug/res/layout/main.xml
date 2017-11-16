@@ -1,0 +1,1 @@
+<RelativeLayout a:layout_width="match_parent" a:layout_height="match_parent" a:minWidth="25px" a:minHeight="25px" xmlns:a="http://schemas.android.com/apk/res/android"><DatePicker a:layout_width="wrap_content" a:layout_height="wrap_content" a:id="@+id/datePicker1" /></RelativeLayout>

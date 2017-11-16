@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Hello">Hello World, Click Me!</string>
+    <string name="ApplicationName">Ride Share</string>
+    <string name="ServerIP">192.168.1.11</string>
+    <string name="size_prompt">Size</string>
+    <string-array name="sizes_array">
+      <item>None</item>
+      <item>Small</item>
+      <item>Medium</item>
+      <item>Large</item>
+    </string-array>
+</resources>
